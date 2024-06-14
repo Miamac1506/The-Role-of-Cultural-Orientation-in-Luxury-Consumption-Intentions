@@ -10,5 +10,4 @@ An independent research using SPSS for a multiple regression analysis of data I 
 ### Proposal
 Employing SPSS for the analysis of cultural orientation as a moderator effect on the intention of luxury consumption in the United States.
 
-[The Role of Cultural Orientation in Luxury Consumption Intentions (2).pdf](https://github.com/user-attachments/files/15844666/The.Role.of.Cultural.Orientation.in.Luxury.Consumption.Intentions.2.pdf)
-
+<img width="893" alt="Cultural Psych" src="https://github.com/Miamac1506/The-Role-of-Cultural-Orientation-in-Luxury-Consumption-Intentions/assets/145936074/2e555e80-2d42-467e-ad5e-caa807e1e1e1">
